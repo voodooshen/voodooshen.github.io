@@ -3,7 +3,7 @@
     <channel>
 
         <title>五窦字工坊 - Categories</title>
-        <link>https://rvsfont.github.io/categories/</link>
+        <link>https://voodooshen.github.io/categories/</link>
         <description>Recent content - 五窦字工坊 - Categories</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
@@ -12,6 +12,6 @@
         
         
         
-        <atom:link href="https://rvsfont.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://voodooshen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

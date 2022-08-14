@@ -3,7 +3,7 @@
     <channel>
 
         <title>五窦字工坊 - Tags</title>
-        <link>https://rvsfont.github.io/tags/</link>
+        <link>https://voodooshen.github.io/tags/</link>
         <description>Recent content - 五窦字工坊 - Tags</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
@@ -12,6 +12,6 @@
         
         
         
-        <atom:link href="https://rvsfont.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://voodooshen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
