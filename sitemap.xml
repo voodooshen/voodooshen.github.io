@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-</urlset>
+  <sitemap>
+    <loc>https://font.raymondvshen.com/cn/sitemap.xml</loc>
+    
+      <lastmod>2018-03-04T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://font.raymondvshen.com/en/sitemap.xml</loc>
+    
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
