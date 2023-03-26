@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://font.raymondvshen.com/cn/categories/</loc>
+    <loc>https://font.raymondvshen.com/categories/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://font.raymondvshen.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
                 href="https://font.raymondvshen.com/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://font.raymondvshen.com/cn/categories/"
-                />
   </url><url>
-    <loc>https://font.raymondvshen.com/cn/posts/</loc>
+    <loc>https://font.raymondvshen.com/posts/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://font.raymondvshen.com/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
                 href="https://font.raymondvshen.com/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://font.raymondvshen.com/cn/posts/"
-                />
   </url><url>
-    <loc>https://font.raymondvshen.com/cn/</loc>
+    <loc>https://font.raymondvshen.com/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://font.raymondvshen.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
                 href="https://font.raymondvshen.com/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://font.raymondvshen.com/cn/"
-                />
   </url><url>
-    <loc>https://font.raymondvshen.com/cn/categories/%E8%AF%97%E6%AD%8C/</loc>
+    <loc>https://font.raymondvshen.com/categories/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://font.raymondvshen.com/cn/posts/cn/</loc>
+    <loc>https://font.raymondvshen.com/posts/cn/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://font.raymondvshen.com/cn/tags/</loc>
+    <loc>https://font.raymondvshen.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://font.raymondvshen.com/tags/"
+                href="https://font.raymondvshen.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://font.raymondvshen.com/cn/tags/"
+                href="https://font.raymondvshen.com/tags/"
                 />
   </url>
 </urlset>
