@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://font.raymondvshen.com/categories/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://font.raymondvshen.com/posts/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,11 +28,11 @@
                 href="https://font.raymondvshen.com/posts/"
                 />
   </url><url>
-    <loc>https://font.raymondvshen.com/posts/%E5%BE%AE%E7%B2%92-%E4%B8%8D%E6%AD%BB%E9%B8%9F/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <loc>https://font.raymondvshen.com/posts/%E5%BE%AE%E7%B2%92%E4%B8%96%E7%95%8C%E8%AF%BB%E4%B9%A6%E6%97%A5/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://font.raymondvshen.com/</loc>
-    <lastmod>2025-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,6 +45,9 @@
                 />
   </url><url>
     <loc>https://font.raymondvshen.com/categories/%E5%BE%AE%E7%B2%92/</loc>
+    <lastmod>2025-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://font.raymondvshen.com/posts/%E5%BE%AE%E7%B2%92-%E4%B8%8D%E6%AD%BB%E9%B8%9F/</loc>
     <lastmod>2025-02-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://font.raymondvshen.com/posts/otherrivers/</loc>
