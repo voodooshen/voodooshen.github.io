@@ -6,7 +6,17 @@
     <description>Recent content in Posts on 五窦字工坊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://font.raymondvshen.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://font.raymondvshen.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《虔橙青年·运维测试文章》</title>
+      <link>https://font.raymondvshen.com/posts/%E8%99%94%E6%A9%99%E9%9D%92%E5%B9%B4%E8%BF%90%E7%BB%B4%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://font.raymondvshen.com/posts/%E8%99%94%E6%A9%99%E9%9D%92%E5%B9%B4%E8%BF%90%E7%BB%B4%E6%B5%8B%E8%AF%95/</guid>
+      <description>这是一篇由运维助手生成的测试文章，用于验证「树莓派 Pi 1 本地编辑 → 推送 GitHub Pages」的完整流程。
+测试时间：2026-08-14 测试机器：Raspberry Pi 1 (10.0.0.119) 测试目的：验证 Hugo v0.101.0 (armv6) 的生成与发布链路 </description>
+    </item>
+    
     <item>
       <title>从内陆省份视角读《我的二本学生》</title>
       <link>https://font.raymondvshen.com/posts/%E4%BB%8E%E5%86%85%E9%99%86%E8%BA%AB%E4%BB%BD%E7%9A%84%E8%A7%86%E8%A7%92%E8%AF%BB%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%AC%E5%AD%A6%E7%94%9F/</link>
