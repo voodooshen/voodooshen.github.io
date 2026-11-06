@@ -6,25 +6,7 @@
     <description>Recent content on 五窦字工坊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://font.raymondvshen.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>看板发布验证（测试文章）</title>
-      <link>https://font.raymondvshen.com/posts/%E7%9C%8B%E6%9D%BF%E5%8F%91%E5%B8%83%E9%AA%8C%E8%AF%81/</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://font.raymondvshen.com/posts/%E7%9C%8B%E6%9D%BF%E5%8F%91%E5%B8%83%E9%AA%8C%E8%AF%81/</guid>
-      <description>这是博客看板「传稿发布」功能的端到端验证文章：经看板上传后自动传到树莓派完成 Hugo 构建并推送到 GitHub Pages，同时原稿备份到 Dropbox。验证完成后本篇会被删除。</description>
-    </item>
-    
-    <item>
-      <title>看板发布验证二（异步测试）</title>
-      <link>https://font.raymondvshen.com/posts/%E7%9C%8B%E6%9D%BF%E5%8F%91%E5%B8%83%E9%AA%8C%E8%AF%81%E4%BA%8C/</link>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://font.raymondvshen.com/posts/%E7%9C%8B%E6%9D%BF%E5%8F%91%E5%B8%83%E9%AA%8C%E8%AF%81%E4%BA%8C/</guid>
-      <description>第二篇验证文章：测试看板传稿的异步发布流程（上传先返回，树莓派在后台构建推送，看板轮询确认结果）。验证完成后删除。</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://font.raymondvshen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>从内陆省份视角读《我的二本学生》</title>
       <link>https://font.raymondvshen.com/posts/%E4%BB%8E%E5%86%85%E9%99%86%E8%BA%AB%E4%BB%BD%E7%9A%84%E8%A7%86%E8%A7%92%E8%AF%BB%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%AC%E5%AD%A6%E7%94%9F/</link>
